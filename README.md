@@ -115,7 +115,7 @@ MIT
 ## Author
 
 [Dreipfelt] - CDSD Certification Candidate  
-[GitHub: your-username](https://github.com/Dreipfelt)
+[GitHub](https://github.com/Dreipfelt)
 
 ## Acknowledgments
 
