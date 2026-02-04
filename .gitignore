@@ -1,0 +1,36 @@
+# Environnements virtuels
+.att_env/
+.venv/
+env/
+venv/
+
+# Dossiers internes de travail / brouillons
+att_spam_detector/
+Old_crap/
+outputs/
+
+# Données brutes ou intermédiaires
+*.csv
+*.tsv
+*.parquet
+*.db
+*.sqlite
+
+# Fichiers temporaires d'OS / éditeurs
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Scripts et secrets
+Secrets.sh
+*.sh
+
+# Logs / rapports générés
+*.log
+*.tmp
+*.out
