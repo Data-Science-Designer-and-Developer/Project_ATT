@@ -1,8 +1,3 @@
-## 🎯 **Modification README.md basée sur vos vraies métriques**
-
-Voici la **version exacte à mettre dans votre README.md** avec vos métriques réelles :
-
-```markdown
 # AT&T Spam Detector - CDSD Certification Project
 
 Complete spam detection system comparing three approaches:
